@@ -1,3 +1,4 @@
+| Level | Question with Link | Description
 ## Course Structure
 
 | Session | Topic                                                                         | Questions |
@@ -1275,13 +1276,13 @@ def interpolation_search(arr, target):
             high = pos - 1
     return -1  # target value not found in the list
 ```
-# | Level | Question with Link | Description
+|# | Level | Question with Link | Description
 --|-------|-------------------|------------
-1 | Easy | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Given the root node of a binary search tree and a value, return the subtree rooted at that node, or null if the value is not found.
-2 | Easy | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | You have a series of versions of a software product, labeled from 1 to n. You know that the first bad version of the software occurs at some version k (where 1 ≤ k ≤ n). You want to find the first bad version using the fewest number of calls to an API function isBadVersion(version), which returns true if the version is bad and false otherwise.
-3 | Medium | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | You are given an integer array nums, where nums[i] represents the ith element in the array. You need to find the peak element in the array. A peak element is an element that is greater than its neighbors. Return its index. You may assume that the array has at most one peak element and that the array is non-empty.
-4 | Medium | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | You are given an integer array nums, sorted in ascending order (with possibly duplicate values). The array is rotated at some pivot unknown to you beforehand. You are given a target value to search for. If found in the array, return its index, otherwise return -1.
-5 | Hard | [Aggressive cows](https://leetcode.com/problems/aggressive-cows/) | Farmer John has built a new long barn, with N stalls. Given an array of N integers positions representing the locations of the stalls, and an integer C representing the number of cows, return the largest minimum distance between the cows.
+|1 | Easy | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Given the root node of a binary search tree and a value, return the subtree rooted at that node, or null if the value is not found.
+|2 | Easy | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | You have a series of versions of a software product, labeled from 1 to n. You know that the first bad version of the software occurs at some version k (where 1 ≤ k ≤ n). You want to find the first bad version using the fewest number of calls to an API function isBadVersion(version), which returns true if the version is bad and false otherwise.
+|3 | Medium | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | You are given an integer array nums, where nums[i] represents the ith element in the array. You need to find the peak element in the array. A peak element is an element that is greater than its neighbors. Return its index. You may assume that the array has at most one peak element and that the array is non-empty.
+|4 | Medium | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | You are given an integer array nums, sorted in ascending order (with possibly duplicate values). The array is rotated at some pivot unknown to you beforehand. You are given a target value to search for. If found in the array, return its index, otherwise return -1.
+|5 | Hard | [Aggressive cows](https://leetcode.com/problems/aggressive-cows/) | Farmer John has built a new long barn, with N stalls. Given an array of N integers positions representing the locations of the stalls, and an integer C representing the number of cows, return the largest minimum distance between the cows.
 
 # Linked Lists
 
